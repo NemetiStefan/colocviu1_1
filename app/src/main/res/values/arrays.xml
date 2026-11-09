@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- folosit de Spinner: android:entries="@array/colors_array" sau ArrayAdapter.createFromResource -->
+    <string-array name="colors_array">
+        <item>Rosu</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+        <item>Portocaliu</item>
+    </string-array>
+    <string-array name="operations_array">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
